@@ -5,4 +5,4 @@ Instructions:
 
 Input data is written into EmailAddresses.txt text file located in the root directory of repository project.
 
-*Run with EmailAddresses.txt as Project Arguments (NeatBeans: Right Click Project -> Properties -> Run tab)
+*Run with EmailAddresses.txt as Project Arguments (NeatBeans IDE: Right Click Project -> Properties -> Run tab)
